@@ -1,0 +1,356 @@
+14/01/2021 09:01:25 14/01/2021 09:01 +551999250-9913: Ola, como vai
+09:01                                                                                                            -- INFORMACAO
+14/01/2021 09:01:47 14/01/2021 09:01 +551999250-9913: Como esta ?
+09:01                                                                                                              -- INFORMACAO
+14/01/2021 09:02:09 14/01/2021 09:02 +551999250-9913: 1aslçdfkaslçkfdjlak'sldfkgjsldfkgjlk'
+09:02                                                                                    -- INFORMACAO
+14/01/2021 09:02:25 14/01/2021 09:02 +551999250-9913: "vamos "
+09:02                                                                                                                 -- INFORMACAO
+14/01/2021 09:05:17 ERRO EM CARREGAR A LISTA DE CLIENTES(CSV) [Errno 2] No such file or directory: 'C:\\Users\\Plus-TI\\Documents\\Projetos\\WHASTAPPRECEPTIVO\\log.csv'             -- INFORMACAO
+14/01/2021 09:05:40 ERRO EM CARREGAR A LISTA DE CLIENTES(CSV) [Errno 2] No such file or directory: 'C:\\Users\\Plus-TI\\Documents\\Projetos\\WHASTAPPRECEPTIVO\\log.csv'             -- INFORMACAO
+14/01/2021 09:05:55 ERRO EM CARREGAR A LISTA DE CLIENTES(CSV) [Errno 2] No such file or directory: 'C:\\Users\\Plus-TI\\Documents\\Projetos\\WHASTAPPRECEPTIVO\\log.csv'             -- INFORMACAO
+14/01/2021 09:06:27 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 09:07:01 14/01/2021 09:06 +551999250-9913: \033[0;0m
+09:06                                                                                                                -- INFORMACAO
+14/01/2021 09:07:39 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 09:08:06 14/01/2021 09:08 +551999250-9913: \033[0;0m
+09:08                                                                                                                -- INFORMACAO
+14/01/2021 10:11:17 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 10:12:27 14/01/2021 10:07 +551999250-9913: Encaminhada
+asas
+10:07                                                                                                         -- INFORMACAO
+14/01/2021 10:26:16 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 10:27:02 14/01/2021 10:27 +551999250-9913: Ola
+10:27                                                                                                                      -- INFORMACAO
+14/01/2021 10:27:26 14/01/2021 10:27 +551999250-9913: Ola
+10:27                                                                                                                      -- INFORMACAO
+14/01/2021 10:27:52 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 10:27:52 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 10:27:52 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 10.27.26.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 10:28:02 14/01/2021 10:27 +551999250-9913: Ola
+10:27                                                                                                                      -- INFORMACAO
+14/01/2021 10:28:08 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 10:28:08 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 10:28:08 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 10.28.02.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 10:30:57 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 10:31:37 14/01/2021 10:31 +551999250-9913: asdfasdf
+10:31                                                                                                                 -- INFORMACAO
+14/01/2021 10:32:46 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 10:34:11 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 10:34:37 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 10:34:38 ERRO EM PEGAR IMAGEM list index out of range                                                                                                                     -- INFORMACAO
+14/01/2021 10:36:19 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 10:38:52 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 11:55:37 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 11:57:39 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:08:43 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:08:43 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:08:46 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\CallCenter-Design (1).docx -> C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\down -- INFORMACAO
+14/01/2021 12:09:44 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:09:50 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:09:50 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:09:50 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Ptt 2021-01-14 at 12.09.44.ogg -> C:\Users\Plus-TI\Documents\Projetos\WHASTAPPR -- INFORMACAO
+14/01/2021 12:26:45 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:27:55 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:27:55 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:29:09 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 12:30:39 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:30:58 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:30:58 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:32:18 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:32:34 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:32:34 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:33:17 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 12:35:25 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:35:44 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:35:44 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:37:18 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 12:38:42 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:39:01 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:39:01 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:39:01 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\Parse.zip -> C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\\2021011442 -- INFORMACAO
+14/01/2021 12:39:24 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:39:26 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:39:26 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:39:26 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 10.32.46.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 12:41:55 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 12:43:32 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:43:51 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:43:51 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:43:51 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\Parse.zip -> C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\\2021011432 -- INFORMACAO
+14/01/2021 12:44:14 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:44:33 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 12:44:33 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 12:44:33 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\Parse.zip -> C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\\2021011414 -- INFORMACAO
+14/01/2021 12:45:02 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 12:48:25 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:48:26 ERRO EM PEGAR IMAGEM list index out of range                                                                                                                     -- INFORMACAO
+14/01/2021 12:58:54 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 12:59:32 14/01/2021 10:31 +551999250-9913: ssoso
+10:31                                                                                                                    -- INFORMACAO
+14/01/2021 12:59:32 ERRO EM INICIAR O DOWNLOAD DA MIDIA texto: 'texto'                                                                                                               -- INFORMACAO
+14/01/2021 13:01:35 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:01:55 14/01/2021 13:01 +551999250-9913: asdfasdf
+13:01                                                                                                                 -- INFORMACAO
+14/01/2021 13:02:45 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:03:08 14/01/2021 13:01 +551999250-9913: asdfasdf
+13:01                                                                                                                 -- INFORMACAO
+14/01/2021 13:03:45 14/01/2021 13:03 +551999250-9913: asdfasdf
+13:03                                                                                                                 -- INFORMACAO
+14/01/2021 13:04:22 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:04:45 14/01/2021 13:03 +551999250-9913: asdfasdf
+13:03                                                                                                                 -- INFORMACAO
+14/01/2021 13:05:03 14/01/2021 13:05 +551999250-9913: asdfasdfasdfasdf
+13:05                                                                                                         -- INFORMACAO
+14/01/2021 13:05:05 14/01/2021 13:05 +551999250-9913: gregorio
+13:05                                                                                                                 -- INFORMACAO
+14/01/2021 13:05:16 14/01/2021 13:05 +551999250-9913: gregorio
+13:05                                                                                                                 -- INFORMACAO
+14/01/2021 13:05:53 14/01/2021 13:05 +551999250-9913: gregorio
+13:05                                                                                                                 -- INFORMACAO
+14/01/2021 13:06:06 14/01/2021 13:05 +551999250-9913: gregorio
+13:05                                                                                                                 -- INFORMACAO
+14/01/2021 13:06:09 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 13:06:09 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 13:06:09 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Ptt 2021-01-14 at 13.06.06.ogg -> C:\Users\Plus-TI\Documents\Projetos\WHASTAPPR -- INFORMACAO
+14/01/2021 13:06:16 14/01/2021 13:05 +551999250-9913: gregorio
+13:05                                                                                                                 -- INFORMACAO
+14/01/2021 13:06:19 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 13:06:19 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 13:06:19 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 13.06.16.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 13:06:55 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:07:19 14/01/2021 13:05 +551999250-9913: gregorio
+13:05                                                                                                                 -- INFORMACAO
+14/01/2021 13:07:53 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 13:07:53 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 13:07:53 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 13.07.19.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 13:08:02 14/01/2021 13:05 +551999250-9913: gregorio
+13:05                                                                                                                 -- INFORMACAO
+14/01/2021 13:09:19 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 13:09:19 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 13:09:19 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 13.08.03.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 13:10:16 14/01/2021 13:05 +551999250-9913: gregorio
+13:05                                                                                                                 -- INFORMACAO
+14/01/2021 13:12:31 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 13:12:31 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 13:12:31 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 13.08.03.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 13:13:18 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:14:49 14/01/2021 13:05 +551999250-9913: gregorio
+13:05                                                                                                                 -- INFORMACAO
+14/01/2021 13:15:20 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:16:18 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:19:51 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:20:09 14/01/2021 13:20 +551999250-9913: import ipdb; ipdb.set_trace()
+13:20                                                                                            -- INFORMACAO
+14/01/2021 13:20:27 14/01/2021 13:20 +551999250-9913: import ipdb; ipdb.set_trace()
+13:20                                                                                            -- INFORMACAO
+14/01/2021 13:20:39 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 13:20:39 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 13:20:55 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\chromedriver.exe -> C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\\202 -- INFORMACAO
+14/01/2021 13:21:08 14/01/2021 13:20 +551999250-9913: import ipdb; ipdb.set_trace()
+13:20                                                                                            -- INFORMACAO
+14/01/2021 13:21:57 14/01/2021 13:20 +551999250-9913: import ipdb; ipdb.set_trace()
+13:20                                                                                            -- INFORMACAO
+14/01/2021 13:22:07 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 13:22:07 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 13:22:07 ERRO EM MOVER ARQUIVO [Errno 2] No such file or directory: 'C:\\Users\\Plus-TI\\Documents\\Projetos\\WHASTAPPRECEPTIVO\\downloads\\chromedriver.exe'             -- INFORMACAO
+14/01/2021 13:22:19 14/01/2021 13:20 +551999250-9913: import ipdb; ipdb.set_trace()
+13:20                                                                                            -- INFORMACAO
+14/01/2021 13:36:08 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:36:21 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:38:53 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:40:05 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:40:45 14/01/2021 13:20 +551999250-9913: import ipdb; ipdb.set_trace()
+13:20                                                                                            -- INFORMACAO
+14/01/2021 13:40:57 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 13:40:57 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 13:40:58 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 13.40.47.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 13:42:05 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:44:45 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:46:17 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:48:46 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:49:17 14/01/2021 13:20 +551999250-9913: import ipdb; ipdb.set_trace()
+13:20                                                                                            -- INFORMACAO
+14/01/2021 13:49:49 ERRO EM PEGAR IMAGEM list index out of range                                                                                                                     -- INFORMACAO
+14/01/2021 13:49:53 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 13:49:54 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 13:49:57 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 13:49:59 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 13:50:02 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 13:50:05 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 13:50:07 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 13:50:10 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 13:50:46 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:51:07 14/01/2021 10:40 +551195465-0019: werwerwerwer
+10:40                                                                                                             -- INFORMACAO
+14/01/2021 13:53:06 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:53:23 14/01/2021 13:20 +551999250-9913: import ipdb; ipdb.set_trace()
+13:20                                                                                            -- INFORMACAO
+14/01/2021 13:55:03 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 13:55:22 14/01/2021 13:20 +551999250-9913: import ipdb; ipdb.set_trace()
+13:20                                                                                            -- INFORMACAO
+14/01/2021 13:56:15 ERRO EM INICIAR O DOWNLOAD DA MIDIA audio: list index out of range                                                                                               -- INFORMACAO
+14/01/2021 13:56:17 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:00:31 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 14:00:51 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:01:27 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:01:27 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:01:27 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 14.00.48.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 14:01:41 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:01:51 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:01:51 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:01:51 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Ptt 2021-01-14 at 14.01.39.ogg -> C:\Users\Plus-TI\Documents\Projetos\WHASTAPPR -- INFORMACAO
+14/01/2021 14:02:24 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:02:36 ERRO EM INICIAR O DOWNLOAD DA MIDIA audio: list index out of range                                                                                               -- INFORMACAO
+14/01/2021 14:02:38 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:02:42 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:02:46 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:03:21 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 14:03:54 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:05:13 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 14:05:31 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:06:11 ERRO EM INICIAR O DOWNLOAD DA MIDIA audio: list index out of range                                                                                               -- INFORMACAO
+14/01/2021 14:06:13 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:06:17 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:06:20 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:07:16 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:09:33 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:14:26 ERRO EM INICIAR O DOWNLOAD DA MIDIA audioEncaminhada: 'audioEncaminhada'                                                                                         -- INFORMACAO
+14/01/2021 14:14:54 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:15:22 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:16:50 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:17:25 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:17:31 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:17:31 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:17:31 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 14.17.25.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 14:17:58 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:20:02 ERRO EM INICIAR O DOWNLOAD DA MIDIA imagemEncaminhada: 'imagemEncaminhada'                                                                                       -- INFORMACAO
+14/01/2021 14:20:18 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:28:45 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 14:29:01 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:29:22 TIPO DE MENSAGEM: imagemEncaminhada                                                                                                                              -- INFORMACAO
+14/01/2021 14:29:24 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:29:24 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:29:24 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 14.29.01.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 14:29:35 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:29:43 TIPO DE MENSAGEM: arquivoEncaminhada                                                                                                                             -- INFORMACAO
+14/01/2021 14:30:01 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:30:01 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:30:01 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\Parse.zip -> C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\\2021011435 -- INFORMACAO
+14/01/2021 14:30:29 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:30:37 TIPO DE MENSAGEM: audioEncaminhada                                                                                                                               -- INFORMACAO
+14/01/2021 14:37:31 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:37:31 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:37:31 ERRO EM MOVER ARQUIVO [Errno 2] No such file or directory: 'C:\\Users\\Plus-TI\\Documents\\Projetos\\WHASTAPPRECEPTIVO\\downloads\\Parse.zip'                    -- INFORMACAO
+14/01/2021 14:39:52 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:40:07 TIPO DE MENSAGEM: imagemEncaminhada                                                                                                                              -- INFORMACAO
+14/01/2021 14:40:09 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:40:09 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:40:09 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 14.29.01.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 14:40:33 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:41:01 TIPO DE MENSAGEM: audioEncaminhada                                                                                                                               -- INFORMACAO
+14/01/2021 14:53:43 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 14:54:10 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:54:32 TIPO DE MENSAGEM: imagemEncaminhada                                                                                                                              -- INFORMACAO
+14/01/2021 14:54:34 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:54:34 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:54:34 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 14.29.01.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 14:54:47 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:54:54 TIPO DE MENSAGEM: audioEncaminhada                                                                                                                               -- INFORMACAO
+14/01/2021 14:54:57 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:54:57 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:54:57 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Audio 2021-01-14 at 14.54.47.ogg -> C:\Users\Plus-TI\Documents\Projetos\WHASTAP -- INFORMACAO
+14/01/2021 14:55:15 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:55:17 TIPO DE MENSAGEM: imagem                                                                                                                                         -- INFORMACAO
+14/01/2021 14:55:20 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 14:55:20 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 14:55:20 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 14.55.15.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 14:55:33 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:56:06 14/01/2021 14:16 +551999250-9913: findall('^Encaminhada\n\d\d\:\d\d$', txt)
+14:16                                                                                -- INFORMACAO
+14/01/2021 14:56:59 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:57:03 TIPO DE MENSAGEM: audio                                                                                                                                          -- INFORMACAO
+14/01/2021 14:57:04 ERRO EM INICIAR O DOWNLOAD DA MIDIA audio: list index out of range                                                                                               -- INFORMACAO
+14/01/2021 14:57:06 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:57:41 14/01/2021  +551999250-9913:                                                                                                                                     -- INFORMACAO
+14/01/2021 14:57:45 TIPO DE MENSAGEM: audio                                                                                                                                          -- INFORMACAO
+14/01/2021 14:57:47 ERRO EM INICIAR O DOWNLOAD DA MIDIA audio: list index out of range                                                                                               -- INFORMACAO
+14/01/2021 14:57:49 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:57:53 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:57:56 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:00 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:03 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:07 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:11 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:14 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:18 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:22 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:25 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:29 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:33 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:36 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:40 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:44 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:47 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:51 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 14:58:54 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 15:02:42 INICIANDO SCRIPT AGENTE DE RECEPCAO DE MENSAGEM DO WHASTAPP                                                                                                      -- INFORMACAO
+14/01/2021 15:03:12 14/01/2021 14:58 +551999250-9913: sasasas
+14:58                                                                                                                  -- INFORMACAO
+14/01/2021 15:03:26 14/01/2021 14:58 +551999250-9913: sasasas
+14:58                                                                                                                  -- INFORMACAO
+14/01/2021 15:03:42 14/01/2021 14:58 +551999250-9913: sasasas
+14:58                                                                                                                  -- INFORMACAO
+14/01/2021 15:03:42 TIPO DE MENSAGEM: imagem
+                                                                                                                                        -- INFORMACAO
+14/01/2021 15:03:45 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 15:03:45 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 15:03:45 MOVENDO C:\Users\Plus-TI\Documents\Projetos\WHASTAPPRECEPTIVO\downloads\WhatsApp Image 2021-01-14 at 15.03.41.jpeg -> C:\Users\Plus-TI\Documents\Projetos\WHASTA -- INFORMACAO
+14/01/2021 15:04:09 14/01/2021 14:58 +551999250-9913: sasasas
+14:58                                                                                                                  -- INFORMACAO
+14/01/2021 15:04:09 TIPO DE MENSAGEM: audio
+                                                                                                                                         -- INFORMACAO
+14/01/2021 15:04:10 ERRO AO BAIXAR AUDIO list index out of range                                                                                                                     -- INFORMACAO
+14/01/2021 15:04:12 DOWNLOAD DO ARQUIVO, REALIZADA COM SUCESSO                                                                                                                       -- INFORMACAO
+14/01/2021 15:04:12 FECHADO ABA COM SUCESSO!                                                                                                                                         -- INFORMACAO
+14/01/2021 15:04:12 ERRO EM MOVER ARQUIVO [Errno 2] No such file or directory: 'C:\\Users\\Plus-TI\\Documents\\Projetos\\WHASTAPPRECEPTIVO\\downloads\\WhatsApp Image 2021-01-14 at  -- INFORMACAO
+14/01/2021 15:04:14 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 15:04:16 ERRO EM ACHAR A CONVERSA DE ESCUTA Message: element click intercepted: Element <span data-testid="pinned" data-icon="pinned" class="">...</span> is not clickabl -- INFORMACAO
+14/01/2021 15:04:33 14/01/2021 15:04 +551999250-9913: sdfgsdfgsdfgs
+15:04                                                                                                            -- INFORMACAO
+14/01/2021 15:05:07 14/01/2021 15:04 +551999250-9913: sdfgsdfgsdfgs
+15:04                                                                                                            -- INFORMACAO
+14/01/2021 15:05:42 14/01/2021 15:04 +551999250-9913: sdfgsdfgsdfgs
+15:04                                                                                                            -- INFORMACAO
+14/01/2021 15:05:53 14/01/2021 15:04 +551999250-9913: sdfgsdfgsdfgs
+15:04                                                                                                            -- INFORMACAO
+14/01/2021 15:06:17 14/01/2021 15:04 +551999250-9913: sdfgsdfgsdfgs
+15:04                                                                                                            -- INFORMACAO
+14/01/2021 15:06:57 14/01/2021 15:06 +551999250-9913: Boa noite
+15:06                                                                                                                -- INFORMACAO
